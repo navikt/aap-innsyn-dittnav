@@ -567,10 +567,10 @@
     prop-types "^15.7.2"
     react-is "^16.8.0 || ^17.0.0"
 
-"@navikt/ds-css@^0.11.4":
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/@navikt/ds-css/-/ds-css-0.11.5.tgz#bae977f8a100aa9a5e589d4c4a83d1b3004026c1"
-  integrity sha512-aS/pDpJBSxjASbjoNpca0FKJudbGuWt9zFKhLR17SIsR7BrQ4twP8/2AqLR0eyQVKlFACDX1+PeTqppDlpn4nA==
+"@navikt/ds-css@^0.15.2":
+  version "0.15.12"
+  resolved "https://registry.yarnpkg.com/@navikt/ds-css/-/ds-css-0.15.12.tgz#dae50463663c72e40dd84a5d24dc6c71dfecabe2"
+  integrity sha512-WbYAWsy/rFhCzp+zbZwy1+JqxxgKPx7mEqdI/qtr6dbYoDtHwF0eDBFYOHxUuihgGd5Dm+gANhnY5PdIMpymHw==
 
 "@navikt/ds-icons@^0.6.3":
   version "0.6.3"
